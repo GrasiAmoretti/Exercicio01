@@ -1,0 +1,2 @@
+# Exercicio01
+CursoQA
